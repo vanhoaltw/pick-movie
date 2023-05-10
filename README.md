@@ -4,7 +4,7 @@
 
 ### Millions of movies and people to discover. Explore now.
 
-### https://github.com/vanhoaltw/pick-movie
+### https://pick-movie.vercel.app/
 
 </div>
 
