@@ -1,10 +1,10 @@
 <div align="center">
 
-# Shoe 3D
+# Pick movie
 
-### Customize color of laces, mesh, stripes, etc of your shoe.
+### Millions of movies and people to discover. Explore now.
 
-### https://shoe-3d.vercel.app/
+### https://github.com/vanhoaltw/pick-movie
 
 </div>
 
@@ -18,7 +18,7 @@
 
 To install the TodoList app, follow these steps:
 
-1. Git clone https://github.com/vanhoaltw/shoe-3d.git
+1. Git clone https://github.com/vanhoaltw/pick-movie
 2. yarn add or npm install
 3. yarn dev or npm run dev
 
